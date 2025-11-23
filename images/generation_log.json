@@ -1,0 +1,566 @@
+{
+  "total_posts": 104,
+  "successful": 103,
+  "failed": 1,
+  "results": [
+    {
+      "post_number": 1,
+      "filename": "Twitter_Post_001_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 2,
+      "filename": "Twitter_Post_002_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 3,
+      "filename": "Twitter_Post_003_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 4,
+      "filename": "Twitter_Post_004_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 5,
+      "filename": "Twitter_Post_005_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 6,
+      "filename": "Twitter_Post_006_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 7,
+      "filename": "Twitter_Post_007_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 8,
+      "filename": "Twitter_Post_008_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 9,
+      "filename": "Twitter_Post_009_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 10,
+      "filename": "Twitter_Post_010_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 11,
+      "filename": "Twitter_Post_011_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 12,
+      "filename": "Twitter_Post_012_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 13,
+      "filename": "Twitter_Post_013_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 14,
+      "filename": "Twitter_Post_014_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 15,
+      "filename": "Twitter_Post_015_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 16,
+      "filename": "Twitter_Post_016_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 17,
+      "filename": "Twitter_Post_017_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 18,
+      "filename": "Twitter_Post_018_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 19,
+      "filename": "Twitter_Post_019_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 20,
+      "filename": "Twitter_Post_020_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 21,
+      "filename": "Twitter_Post_021_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 22,
+      "filename": "Twitter_Post_022_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 23,
+      "filename": "Twitter_Post_023_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 24,
+      "filename": "Twitter_Post_024_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 25,
+      "filename": "Twitter_Post_025_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 26,
+      "filename": "Twitter_Post_026_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 27,
+      "filename": "Twitter_Post_027_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 28,
+      "filename": "Twitter_Post_028_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 29,
+      "filename": "Twitter_Post_029_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 30,
+      "filename": "Twitter_Post_030_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 31,
+      "filename": "Twitter_Post_031_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 32,
+      "filename": "Twitter_Post_032_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 33,
+      "filename": "Twitter_Post_033_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 34,
+      "filename": "Twitter_Post_034_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 35,
+      "filename": "Twitter_Post_035_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 36,
+      "filename": "Twitter_Post_036_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 37,
+      "filename": "Twitter_Post_037_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 38,
+      "filename": "Twitter_Post_038_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 39,
+      "filename": "Twitter_Post_039_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 40,
+      "filename": "Twitter_Post_040_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 41,
+      "filename": "Twitter_Post_041_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 42,
+      "filename": "Twitter_Post_042_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 43,
+      "filename": "Twitter_Post_043_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 44,
+      "filename": "Twitter_Post_044_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 45,
+      "filename": "Twitter_Post_045_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 46,
+      "filename": "Twitter_Post_046_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 47,
+      "filename": "Twitter_Post_047_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 48,
+      "filename": "Twitter_Post_048_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 49,
+      "filename": "Twitter_Post_049_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 50,
+      "filename": "Twitter_Post_050_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 51,
+      "filename": "Twitter_Post_051_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 52,
+      "filename": "Twitter_Post_052_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 53,
+      "filename": "Twitter_Post_053_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 54,
+      "filename": "Twitter_Post_054_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 55,
+      "filename": "Twitter_Post_055_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 56,
+      "filename": "Twitter_Post_056_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 57,
+      "filename": "Twitter_Post_057_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 58,
+      "filename": "Twitter_Post_058_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 59,
+      "filename": "Twitter_Post_059_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 60,
+      "filename": "Twitter_Post_060_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 61,
+      "filename": "Twitter_Post_061_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 62,
+      "filename": "Twitter_Post_062_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 63,
+      "filename": "Twitter_Post_063_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 64,
+      "filename": "Twitter_Post_064_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 65,
+      "filename": "Twitter_Post_065_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 66,
+      "filename": "Twitter_Post_066_Image.png",
+      "status": "already_exists"
+    },
+    {
+      "post_number": 67,
+      "filename": "Twitter_Post_067_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_067_Image.png"
+    },
+    {
+      "post_number": 68,
+      "filename": "Twitter_Post_068_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_068_Image.png"
+    },
+    {
+      "post_number": 69,
+      "filename": "Twitter_Post_069_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_069_Image.png"
+    },
+    {
+      "post_number": 70,
+      "filename": "Twitter_Post_070_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_070_Image.png"
+    },
+    {
+      "post_number": 71,
+      "filename": "Twitter_Post_071_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_071_Image.png"
+    },
+    {
+      "post_number": 72,
+      "filename": "Twitter_Post_072_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_072_Image.png"
+    },
+    {
+      "post_number": 73,
+      "filename": "Twitter_Post_073_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_073_Image.png"
+    },
+    {
+      "post_number": 74,
+      "filename": "Twitter_Post_074_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_074_Image.png"
+    },
+    {
+      "post_number": 75,
+      "filename": "Twitter_Post_075_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_075_Image.png"
+    },
+    {
+      "post_number": 76,
+      "filename": "Twitter_Post_076_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_076_Image.png"
+    },
+    {
+      "post_number": 77,
+      "filename": "Twitter_Post_077_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_077_Image.png"
+    },
+    {
+      "post_number": 78,
+      "filename": "Twitter_Post_078_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_078_Image.png"
+    },
+    {
+      "post_number": 79,
+      "filename": "Twitter_Post_079_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_079_Image.png"
+    },
+    {
+      "post_number": 80,
+      "filename": "Twitter_Post_080_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_080_Image.png"
+    },
+    {
+      "post_number": 81,
+      "filename": "Twitter_Post_081_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_081_Image.png"
+    },
+    {
+      "post_number": 82,
+      "filename": "Twitter_Post_082_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_082_Image.png"
+    },
+    {
+      "post_number": 83,
+      "filename": "Twitter_Post_083_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_083_Image.png"
+    },
+    {
+      "post_number": 84,
+      "filename": "Twitter_Post_084_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_084_Image.png"
+    },
+    {
+      "post_number": 85,
+      "filename": "Twitter_Post_085_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_085_Image.png"
+    },
+    {
+      "post_number": 86,
+      "filename": "Twitter_Post_086_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_086_Image.png"
+    },
+    {
+      "post_number": 88,
+      "filename": "Twitter_Post_088_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_088_Image.png"
+    },
+    {
+      "post_number": 89,
+      "filename": "Twitter_Post_089_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_089_Image.png"
+    },
+    {
+      "post_number": 90,
+      "filename": "Twitter_Post_090_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_090_Image.png"
+    },
+    {
+      "post_number": 91,
+      "filename": "Twitter_Post_091_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_091_Image.png"
+    },
+    {
+      "post_number": 92,
+      "filename": "Twitter_Post_092_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_092_Image.png"
+    },
+    {
+      "post_number": 93,
+      "filename": "Twitter_Post_093_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_093_Image.png"
+    },
+    {
+      "post_number": 94,
+      "filename": "Twitter_Post_094_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_094_Image.png"
+    },
+    {
+      "post_number": 95,
+      "filename": "Twitter_Post_095_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_095_Image.png"
+    },
+    {
+      "post_number": 96,
+      "filename": "Twitter_Post_096_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_096_Image.png"
+    },
+    {
+      "post_number": 97,
+      "filename": "Twitter_Post_097_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_097_Image.png"
+    },
+    {
+      "post_number": 98,
+      "filename": "Twitter_Post_098_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_098_Image.png"
+    },
+    {
+      "post_number": 99,
+      "filename": "Twitter_Post_099_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_099_Image.png"
+    },
+    {
+      "post_number": 100,
+      "filename": "Twitter_Post_100_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_100_Image.png"
+    },
+    {
+      "post_number": 101,
+      "filename": "Twitter_Post_101_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_101_Image.png"
+    },
+    {
+      "post_number": 102,
+      "filename": "Twitter_Post_102_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_102_Image.png"
+    },
+    {
+      "post_number": 103,
+      "filename": "Twitter_Post_103_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_103_Image.png"
+    },
+    {
+      "post_number": 104,
+      "filename": "Twitter_Post_104_Image.png",
+      "status": "generated",
+      "filepath": "C:\\Users\\MarieLexisDad\\Modelit-Twitter\\images\\Twitter_Post_104_Image.png"
+    }
+  ],
+  "failures": [
+    {
+      "post_number": 87,
+      "filename": "Twitter_Post_087_Image.png",
+      "error": "No images in response"
+    }
+  ]
+}
