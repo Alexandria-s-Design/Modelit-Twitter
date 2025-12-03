@@ -132,3 +132,11 @@ For detailed usage instructions, see:
 ---
 
 Built with ❤️ for ModelIt K12 teachers
+
+## Status
+Active
+
+## TODO
+- [ ] Schedule upcoming posts
+- [ ] Update content calendar
+- [ ] Analyze engagement metrics
